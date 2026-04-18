@@ -3,7 +3,7 @@
 Este repositório documenta a criação de um **Copiloto de Vendas Inteligente** desenvolvido inteiramente através de **IA Generativa (Vibe Coding)**. O objetivo foi transformar a atividade proposta pela DIO em um MVP funcional utilizando prompts estruturados.
 
 ## 📸 Demonstração do Projeto
-![Interface do Copiloto](./screenshots/image_8ea96c.png)
+![Interface do Copiloto](./screenshots/dashboard.jpg)
 *Interface moderna com foco em UX mobile-first e lógica comercial.*
 
 ## 🧠 Engenharia de Prompts (A Lógica)
